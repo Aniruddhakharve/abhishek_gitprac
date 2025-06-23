@@ -12,3 +12,5 @@ b=9 - 2
 
 #percentage
 
+#Multiplication
+
